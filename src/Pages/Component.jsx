@@ -220,7 +220,7 @@ const handleComponent=(category)=>{
           <ul className="text-white">
             <li className="font-bold my-2">Contact</li>
             <li className="text-gray-400 hover:text-gray-600 cursor-pointer"><a href='https://www.linkedin.com/in/aditya-bhattacharjee0706/' target='_blank'>LinkedIn</a></li>
-            <li className="text-gray-400 hover:text-gray-600 cursor-pointer"><a href='https://github.com/Adi0706' target='_blank'>GitHub</a></li>
+            <li className="text-gray-400 hover:text-gray-600 cursor-pointer"><a href='https://github.com/adixb' target='_blank'>GitHub</a></li>
             <li className="text-gray-400 hover:text-gray-600 cursor-pointer"><a href='https://twitter.com/Acejumanji' target='_blank'>Twitter</a></li>
           </ul>
           <ul className="text-white">
